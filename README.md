@@ -18,4 +18,4 @@ Well-structured, readable code for easy customization and feature expansion
 Tech Stack: Python, Turtle Graphics, OS & Platform Libraries
 
 This project demonstrates my skills in Python programming, event-driven programming, game logic design, and cross-platform compatibility. It was a fun challenge combining nostalgia with coding, turning an old-school game into a modern Python project.
-------------------------------------------------------------------,--------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
